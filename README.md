@@ -2,7 +2,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Configure osTickets (Pst-Installation)](https://www.youtube.com/watch?v=HGywPhfKt4E)
+- ### [YouTube: How to Configure osTickets (Post-Installation)](https://www.youtube.com/watch?v=HGywPhfKt4E)
 
 <h2>Environments and Technologies Used</h2>
 
